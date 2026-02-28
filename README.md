@@ -2,10 +2,6 @@
 
 A web-based **Optical Character Recognition (OCR)** application that extracts text from uploaded images and converts it into structured JSON format.
 
-The application runs locally at:
-
-http://127.0.0.1:5000/
-
 ---
 
 ## 🚀 Features
